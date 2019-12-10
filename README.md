@@ -26,8 +26,8 @@ There is one notebook included here to demonstrate the work done to answer the a
 
 ## 4. Results: <a name="Result"></a>
 
-The main findings can be found in this post.
+The main findings can be found in this [post](https://medium.com/@hiba.fallatah/can-we-guess-who-can-make-his-appointment-to-the-doctors-73ff70efeb70).
 
 ## 5. Licensing, Authors, Acknowledgements: <a name="licensing"></a>
 
-The data has been collected and published by Joni Hoppen who is a data scientist at Aquarela Advanced Analytics in Braziel from November 2015 to Jun 2016. The data has been published at Kaggle and you can find it here.
+The data has been collected and published by Joni Hoppen who is a data scientist at Aquarela Advanced Analytics in Braziel from November 2015 to Jun 2016. The data has been published at Kaggle and you can find it [here](https://www.kaggle.com/joniarroba/noshowappointments).
